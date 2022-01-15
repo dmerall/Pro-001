@@ -11,6 +11,7 @@ private void Update() {
 
     transform.Translate(Vector2.right *fireSpeed *Time.deltaTime,Space.Self);
     
+    
 }
 
 
